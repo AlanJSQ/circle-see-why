@@ -21,3 +21,5 @@ export WORKFLOW=
 # Usage
 Usage: ./script.sh \<branch name> ?\<workflow name>
 
+# Example output
+<img width="1422" alt="image" src="https://user-images.githubusercontent.com/97483533/164077578-590a58ab-df98-4e62-b95f-ebce2c7c2fdd.png">
